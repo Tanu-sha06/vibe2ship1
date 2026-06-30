@@ -1,0 +1,12 @@
+{
+  "name": "Remix: Remix: CivicResolve",
+  "description": "A collaborative platform for citizens to report, validate, track, and resolve community issues with intelligent automation and impact analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
